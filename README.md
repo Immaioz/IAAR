@@ -10,4 +10,6 @@ For this one it is possible to view the presentation through slides and the ladd
 Regarding the second project, it was used Coppielia Sim to use a Robotic Arm, in particular the IRB 140, to simulate a scenario where the arm pick up
 boxes of different colors and place them in the appropiate color-based position.
 It is possible to view the presentation of the project and also the CoppeliaSim scenario created, along with a short video of the system while functioning.
+
+
 ![ezgif com-video-to-gif](https://github.com/Immaioz/IAAR/assets/49716352/f915fdd1-91d3-49c9-922c-7271ef14a8e9)
