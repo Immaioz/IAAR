@@ -11,6 +11,6 @@ boxes of different colors and place them in the appropiate color-based position.
 It is possible to view the presentation of the project and also the CoppeliaSim scenario created, along with a short video of the system while functioning.
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/n4_Njr7twKU))
 
 [![Watch the video][(https://img.youtu.be/vi/n4_Njr7twKU/maxresdefault.jpg)][(https://youtu.be/n4_Njr7twKU)]
