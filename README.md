@@ -10,4 +10,7 @@ Regarding the second project, it was used Coppielia Sim to use a Robotic Arm, in
 boxes of different colors and place them in the appropiate color-based position.
 It is possible to view the presentation of the project and also the CoppeliaSim scenario created, along with a short video of the system while functioning.
 
-[![Watch the video][(https://youtu.be/vi/n4_Njr7twKUmaxresdefault.jpg)][(https://youtu.be/n4_Njr7twKU)]
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+[![Watch the video][(https://img.youtu.be/vi/n4_Njr7twKU/maxresdefault.jpg)][(https://youtu.be/n4_Njr7twKU)]
